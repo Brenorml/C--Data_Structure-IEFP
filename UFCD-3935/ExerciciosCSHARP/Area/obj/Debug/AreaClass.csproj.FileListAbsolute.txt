@@ -1,0 +1,7 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\Area\bin\Debug\Area.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\Area\bin\Debug\Area.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\Area\bin\Debug\Area.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\Area\obj\Debug\AreaClass.csproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\Area\obj\Debug\AreaClass.csproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\Area\obj\Debug\Area.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\Area\obj\Debug\Area.pdb

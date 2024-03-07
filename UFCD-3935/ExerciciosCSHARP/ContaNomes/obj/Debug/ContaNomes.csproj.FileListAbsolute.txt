@@ -1,0 +1,7 @@
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\ContaNomes\obj\Debug\ContaNomes.csproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\ContaNomes\obj\Debug\ContaNomes.csproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\ContaNomes\bin\Debug\ContaNomes.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\ContaNomes\bin\Debug\ContaNomes.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\ContaNomes\bin\Debug\ContaNomes.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\ContaNomes\obj\Debug\ContaNomes.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\ContaNomes\obj\Debug\ContaNomes.pdb

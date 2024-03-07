@@ -1,0 +1,14 @@
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteVariaveisLocais\bin\Debug\TesteVariaveisLocais.exe.config
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteVariaveisLocais\bin\Debug\TesteVariaveisLocais.exe
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteVariaveisLocais\bin\Debug\TesteVariaveisLocais.pdb
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.csproj.AssemblyReference.cache
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.csproj.CoreCompileInputs.cache
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.exe
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\TesteVariaveisLocais\bin\Debug\TesteVariaveisLocais.exe.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\TesteVariaveisLocais\bin\Debug\TesteVariaveisLocais.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\TesteVariaveisLocais\bin\Debug\TesteVariaveisLocais.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.csproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.csproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.exe
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\.NET - C#\UFCD-3935\ExerciciosCSHARP\TesteVariaveisLocais\obj\Debug\TesteVariaveisLocais.pdb

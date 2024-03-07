@@ -1,0 +1,7 @@
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteClasse\bin\Debug\TesteClasse.exe.config
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteClasse\bin\Debug\TesteClasse.exe
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteClasse\bin\Debug\TesteClasse.pdb
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteClasse\obj\Debug\TesteClasse.csproj.AssemblyReference.cache
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteClasse\obj\Debug\TesteClasse.csproj.CoreCompileInputs.cache
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteClasse\obj\Debug\TesteClasse.exe
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\3935 - Programação em C#\CODE\ExerciciosCSHARP\TesteClasse\obj\Debug\TesteClasse.pdb
