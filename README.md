@@ -5,7 +5,7 @@
 ### UFCD-0805 - ESTRUTURA DE DADOS
 ### UFCD-3935 - PROGRAMAÇÃO EM C#
 
-Aplicavitos desenvolvidos durante as disciplinas UFCD0805 e UFCD3935 no curso técnico de programação do IEFP.
+Aplicativos desenvolvidos durante as disciplinas UFCD0805 e UFCD3935 no curso técnico de programação do IEFP.
 
 ### Linguagens:
 
