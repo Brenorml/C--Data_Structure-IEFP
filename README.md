@@ -12,7 +12,7 @@ Aplicativos desenvolvidos durante as disciplinas UFCD0805 e UFCD3935 no curso t�
 * C#
 * Windows Form
 * Programação Orientada ao Objeto
-* Programação Orentada a Eventos
+* Programação Orientada a Eventos
 
 ### Ferramentas:
 
